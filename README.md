@@ -1,3 +1,1 @@
 # Project-singapur
-
-Proyecto Singapur
